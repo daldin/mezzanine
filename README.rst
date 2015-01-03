@@ -66,7 +66,7 @@ interface, Mezzanine provides the following:
 
 The Mezzanine admin dashboard:
 
-.. image:: http://github.com/stephenmcd/mezzanine/raw/master/docs/img/dashboard.png
+.. image:: http://mezzanine.jupo.org/docs/_images/dashboard.png
 
 Dependencies
 ============
@@ -726,7 +726,7 @@ Quotes
 .. _`mezzanine-webf`: https://github.com/jerivas/mezzanine-webf
 .. _`mezzanineopenshift`: https://bitbucket.org/radeksvarz/mezzanineopenshift
 .. _`mezzanine-bsbanners`: https://pypi.python.org/pypi/mezzanine-bsbanners
-.. _`mezzanine-business-theme`: https://github.com/dfalk/mezzanine-business-themebsbanners
+.. _`mezzanine-business-theme`: https://github.com/dfalk/mezzanine-business-theme
 .. _`open-helpdesk`: https://github.com/simodalla/open-helpdesk
 .. _`mezzanine-invites`: https://github.com/averagehuman/mezzanine-invites
 
